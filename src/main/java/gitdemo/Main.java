@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("Git demo");
 		System.out.println("Git second commit to dev");
 		System.out.println("Git second commit to dev2");
+		System.out.println("Git second commit to dev3");
 
 	}
 
